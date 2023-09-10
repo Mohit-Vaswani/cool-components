@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useState } from 'react'; // Import React
-import ItemData from '@/data/itemdata'; // Import your data
+import ItemData from '@/data/componentsDate'; // Import your data
 
 
 export default function ItemList() {

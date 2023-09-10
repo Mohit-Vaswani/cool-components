@@ -1,14 +1,10 @@
-import ItemList from "@/components/ItemList";
-import Modal from "@/components/Modal";
-import Toggle from "@/components/Toggle";
+import Hero from "@/components/UI/Hero";
 
 export default function Home() {
   return (
-    <main className='flex justify-center items-center w-full h-screen flex-col gap-6'>
-      <h1>Building New Components⚡</h1>
-      {/* <ItemList/> */}
-      {/* <Toggle/> */}
-      <Modal/>
+    <main className='flex mt-12 items-center w-full h-screen flex-col gap-6'>
+      <h1 className="text-2xl">Building Cool Components⚡</h1>
+      <Hero/>
     </main>
   )
 }
