@@ -1,6 +1,6 @@
 const componentsData = [
     {
-        cName: 'Buttons',
+        cName: 'Table',
         link: '/Table'
     },
     {
@@ -12,7 +12,7 @@ const componentsData = [
         link: '/Table'
     },
     {
-        cName: 'Table',
+        cName: 'Buttons',
         link: '/Table'
     },
     {
